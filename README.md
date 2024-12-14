@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Pablo Martínez Huerres
 
-<!--
-**pabloHuerres01/pabloHuerres01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador backend apasionado por resolver problemas y aprender tecnologías nuevas.  
+🎯 Especializado en Java, Python y bases de datos relacionales y no relacionales.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Mis habilidades:
+- **Lenguajes:** Java, Python
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- **Frameworks y herramientas:** Hibernate, Spring, Maven
+
+---
+## 📬 Contáctame:
+- 📧 [p.huerres01@gmail.com](mailto:p.huerres01@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/pablomartinezhuerres) 
+
+---
+
+> *"Siempre hay una solución para cada problema, ¡el truco está en encontrarla!"*
+
