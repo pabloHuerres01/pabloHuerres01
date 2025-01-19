@@ -25,7 +25,7 @@
 ---
 ## 📬 Contáctame:
 - 📧 [p.huerres01@gmail.com](mailto:p.huerres01@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/pablomartinezhuerres)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablomartinezhuerres)
 
 ---
 
